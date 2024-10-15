@@ -1,6 +1,6 @@
 ---
-title: Tour
-date: 2022-10-24
+title: Home
+date: 2024-10-14
 
 type: landing
 
@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: 👋 Shechterlab @ EinsteinMed
+        content: Post-translational regulation of the genome
         align: center
         background:
           image:
@@ -48,7 +48,7 @@ sections:
       slide_height: ''
       is_fullscreen: true
       # Automatically transition through slides?
-      loop: false
+      loop: true
       # Duration of transition between slides (in ms)
       interval: 2000
 ---
